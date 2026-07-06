@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.Message {
+    margin: 60px;
+}
+
+.input {
+    width: 250px;
+    padding: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.208);
+    border-radius: 20px;
+}
+
+#login {
+    width: 250px;
+    padding: 10px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    box-shadow: 1px 1px 1px 1px rgb(231, 227, 227);
+    border: none;
+    background-color: blue;
+    color: white;
+}
+input{
+    color: black;
+}
